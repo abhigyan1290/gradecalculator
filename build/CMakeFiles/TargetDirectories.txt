@@ -1,3 +1,0 @@
-/home/abhigyandoshi/projects/build/CMakeFiles/my_executable.dir
-/home/abhigyandoshi/projects/build/CMakeFiles/edit_cache.dir
-/home/abhigyandoshi/projects/build/CMakeFiles/rebuild_cache.dir
